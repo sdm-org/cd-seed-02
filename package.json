@@ -1,4 +1,4 @@
- {
+{
   "name": "cd-seed-02",
   "version": "0.1.0",
   "description": "some random text",
@@ -22,7 +22,7 @@
     "url": "https://github.com/sdm-org/cd-seed-02/issues"
   },
   "dependencies": {
-    "@atomist/automation-client": "1.3.0-master.201901152108581",
+    "@atomist/automation-client": "^1.6.2",
     "@atomist/sdm": "1.3.0-master.20190115223640",
     "@atomist/sdm-core": "^1.6.1",
     "@atomist/sdm-pack-build": "1.0.4-master.20190110123121",
