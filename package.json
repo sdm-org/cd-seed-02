@@ -1,4 +1,4 @@
- {      
+{
   "name": "cd-seed-02",
   "version": "0.1.0",
   "description": "some random text which I want to update",
@@ -54,7 +54,7 @@
     "ts-node": "7.0.1",
     "tslint": "^5.11.0",
     "typedoc": "^0.13.0",
-    "typescript": "^3.1.6"
+    "typescript": "^3.5.3"
   },
   "directories": {
     "test": "test"
